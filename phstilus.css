@@ -1,0 +1,50 @@
+﻿body {
+	font-size: 11pt;
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana;
+	background-image: url("bg.png");
+	color: black;
+}
+
+p{
+	
+}
+
+hr {
+	width: 60%;
+}
+
+h1, h2 {
+	color: #347235;
+}
+
+h2 {
+	font-size: 17px;
+}
+
+#tartalom {
+	margin: 0 auto 0 auto;
+	text-align: left;
+	width: 850px;
+	border: none;
+	padding: 0px 10px;
+	background-color: white;
+}
+
+#nev{
+	font-size: 16px;
+	font-style:italic;
+}
+
+
+.kep {
+	float: right;
+	margin-left: 5px;
+	border: 1px solid black;
+}
+
+a:link {
+	color: #008080;
+}
+
